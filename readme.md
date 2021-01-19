@@ -569,7 +569,7 @@
 
      C++ предоставляет серию стандартных исключений, определенных в `exception`, мы можем использовать эти стандартные исключения в программе. Они организованы в иерархию родительских и дочерних классов, как показано ниже:
 
-     ![Exception](/Users/doge/Desktop/cpp/readme.assets/exceptions_in_cpp-20210119185023807.png)
+     ![Exception](https://www.runoob.com/wp-content/uploads/2015/05/exceptions_in_cpp.png)
 
      ---
 
